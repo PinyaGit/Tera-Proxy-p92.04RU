@@ -1,0 +1,13 @@
+{
+	"files": {
+		"index.js": "109d1c64bc355e7db5e8eefb4a36bb3d9395af4a42abed5cdb660013e4b7fb03",
+		"module.json": "7d439e13e61ac7920bab834c006113ea6062d49f47bdb377dce8852190bc6cc7",
+		"README.md": "c6a0560ba92924bfc0effa998e7e1c30ed1d4f603fbb4dd286d645370239ef8f",
+		"class/effect.js": "77c902a60571a995d2af95ca0acb60bf9e866a308340f70140b5652028b94ffb",
+		"class/entity.js": "5abe14986b1fa26561f1c1665d048f4fdbc63e8c6a36230d1ffcb8261bad0e6d",
+		"class/library.js": "c30bdeae2b81c9321898357d8982b33c5f1f47722f49f3e58ab91060a387a459",
+		"class/packet.js": "5efdff43dae140b0536dbc1f30dd3132a316d05e04e6ff7cc3e2fd68f901da46",
+		"class/player.js": "6e5b77d2251207452e406662fedba05983704306a0e37a51ef622f8d2825a4d4"
+	},
+	"defs": {}
+}

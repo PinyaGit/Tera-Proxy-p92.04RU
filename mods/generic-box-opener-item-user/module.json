@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "generic-box-opener-item-user",
+    "author": "Owyn",
+    "description": "Mass-Opens boxes",
+    "options": {
+        "cliName": "Box",
+        "guiName": "Generic Box Opener & Item user"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/generic-box-opener-item-user/master/"]
+}

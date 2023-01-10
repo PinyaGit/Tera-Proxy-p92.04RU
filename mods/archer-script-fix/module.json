@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "script-archer",
+    "author": "<font color='#FDD017'> AOC 2024</font>",
+    "description": "==",
+    "version": "<font color='#FC0FC0'>GF v110.2</font>",
+    "options": {
+        "niceName": "script-archer",
+        "guiName": "<font color='#FDD017'>script-archer</font>"
+    }
+}
