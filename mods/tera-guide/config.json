@@ -1,0 +1,263 @@
+{
+    "version": 1.19,
+    "data": {
+        "enabled": true,
+        "stream": false,
+        "lNotice": false,
+        "gNotice": false,
+        "spawnObject": true,
+        "speech": {
+            "enabled": false,
+            "rate": 2,
+            "volume": 100,
+            "gender": "female"
+        },
+        "cc": [
+            "</font><font color=\"#ffff00\">"
+        ],
+        "language": "auto",
+        "dungeons": {
+            "3023": {
+                "name": "Секретное подземелье крепости Берарк",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3026": {
+                "name": "Логово Келсаика",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3027": {
+                "name": "Арена безумия",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3030": {
+                "name": "Старая резиденция",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3032": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3034": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3036": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3037": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3101": {
+                "name": "Гнездо Паркин",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3102": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3103": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3126": {
+                "name": "Логово Бессмертного Келсаика",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3201": {
+                "name": "Гнездо сверкающей Паркин",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3202": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3203": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "7011": {
+                "name": "Живодеры и черная тень (хранитель)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "7015": {
+                "name": "Спасти Убежище Балдера (хранитель)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9027": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9044": {
+                "name": "Святилище Бахаара",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9054": {
+                "name": "Глубинный Храм (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9056": {
+                "name": "Хроноплоскость (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9057": {
+                "name": "Акероново пекло (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9066": {
+                "name": "Рулетка Демороса",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9067": {
+                "name": "Лаборатория Берна (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9068": {
+                "name": "Убежище Дуриона (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9070": {
+                "name": "Замок Парадоксов",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9710": {
+                "name": "Разрушенный алтарь Лакана",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9716": {
+                "name": "Крейсер \"Стремление\"",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9720": {
+                "name": "Омут Антароса",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9735": {
+                "name": "Ангар RK-9",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9739": {
+                "name": "Лагерь повстанцев",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9754": {
+                "name": "Глубинный Храм",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9757": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9759": {
+                "name": "Остров Мертвых (сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9770": {
+                "name": "Руины Абнукты",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9780": {
+                "name": "Вход в катакомбы Велики",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9781": {
+                "name": "Святилище Велики",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9782": {
+                "name": "Мастерская Леандра",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9794": {
+                "name": "Лаборатория Сайрекса",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9916": {
+                "name": "Крейсер \"Стремление\" (Сложно)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9920": {
+                "name": "Омут Бездушного Антароса",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9935": {
+                "name": "Ангар совершенного RK-9",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9970": {
+                "name": "Руины Кошмарной Абнукты",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9981": {
+                "name": "Разрушенное Святилище Велики",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9982": {
+                "name": "Заброшенная мастерская Леандра",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9983": {
+                "name": "Крепость Темного Тенебриса",
+                "verbose": true,
+                "spawnObject": true
+            }
+        },
+        "debug": {
+            "chat": true,
+            "all": false,
+            "s": false,
+            "e": false,
+            "am": false,
+            "ae": false,
+            "ab": false,
+            "ar": false,
+            "ad": false,
+            "h": false,
+            "ns": false,
+            "nd": false,
+            "rb": false,
+            "re": false,
+            "dm": false,
+            "qb": false,
+            "ap": false,
+            "af": false,
+            "at": false
+        }
+    }
+}

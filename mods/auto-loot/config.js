@@ -1,7 +1,7 @@
 module.exports = {
     enable: true,
     enableAuto: true,
-	interval: 60
+	interval: 150
 	throttleMax: 45,
 	scanInterval: 60,
 	radius: 180,
